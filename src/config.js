@@ -1,0 +1,1 @@
+export const baseUrl = 'https://agile-sands-40710.herokuapp.com/user/docs'
